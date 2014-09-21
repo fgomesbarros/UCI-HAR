@@ -1,12 +1,7 @@
----
-output:
-  html_document:
-    keep_md: yes
----
 CodeBook
 ========
 
-This Codebook describes what UCI-HAR raw data should be collected and how it is transformed in tidy data. It also shows the structure of the tidy data. 
+This CodeBook describes what UCI-HAR raw data should be collected and how it is transformed in tidy data. It also shows the structure of the tidy data. 
 
 ## 1. Study Design
 
